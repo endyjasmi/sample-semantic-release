@@ -3,4 +3,5 @@ module.exports = {
   random: () => Math.random(),
   version: "1.x",
   patch: true,
+  minor: true,
 };
