@@ -1,7 +1,7 @@
 {
   "name": "@endyjasmi/sample-semantic-release",
   "description": "Semantic release sample.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "commonjs",
   "main": "source/index.js",
   "devDependencies": {
